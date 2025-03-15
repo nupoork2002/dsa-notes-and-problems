@@ -6,6 +6,8 @@ Welcome to the **DSA Problem Solving** repository! This repo documents my **Data
 ---
 
 ## 📖 Topics Covered (Ongoing)  
-As I learn new concepts, I'll keep updating this section! 🚀  
+As I learn new concepts, I'll keep updating this section! 🚀
+
+🔹 **what Are Data Sturcture, Why use them , ADT** ✅ *(Completed: Day 1)*  
 
 🔹 **Big O Notation & Time Complexity** ✅ *(Completed: Day 1)*  
