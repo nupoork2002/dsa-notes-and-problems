@@ -8,7 +8,13 @@ I'll keep updating this section as I learn new concepts! 🚀
 
 ✅ **Day 1**  
 🔹 **What Are Data Structures? Why Use Them? ADT**  
-🔹 **Big O Notation & Time Complexity**  
+🔹 **Big O Notation & Time Complexity** 
+
+✅ **Day 2** 
+
+🔹**Solving Multiple patterns**
+
+🔹**Learned about the STL**
 
 ---
 
